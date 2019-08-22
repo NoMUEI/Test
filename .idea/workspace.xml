@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3bc9ba0-280e-4fac-b729-28ac4a92a276" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1PlGr9DVlicycPUZMOYXkGEM3oZ" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyCode\learngotest\arradnslice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestSumAll in arradnslice">
+    <configuration name="BenchmarkRepeat in repeat_benchmark_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/iteration" />
+      <framework value="gobench" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/iteration/repeat_benchmark_test.go" />
+      <pattern value="^BenchmarkRepeat$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleRepeat in repeat_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/iteration" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/iteration/repeat_test.go" />
+      <pattern value="^ExampleRepeat$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRepeat in repeat_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/iteration" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/iteration/repeat_test.go" />
+      <pattern value="^TestRepeat$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSum in sum_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/arradnslice" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/arradnslice/sum_test.go" />
+      <pattern value="^TestSum$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSumAll in arradnslice" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/arradnslice" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="arradnslice" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSumAll$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestSumAll in arradnslice" />
+        <item itemvalue="Go Test.TestSum in sum_test.go" />
+        <item itemvalue="Go Test.ExampleRepeat in repeat_test.go" />
+        <item itemvalue="Go Test.TestRepeat in repeat_test.go" />
+        <item itemvalue="Go Test.BenchmarkRepeat in repeat_benchmark_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+</project>

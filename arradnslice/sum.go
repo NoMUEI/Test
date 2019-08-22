@@ -10,17 +10,11 @@ func Sum(a []int) int {
 }
 
 
-func SumAll(a, b []int) []int {
-	var sumarr []int
-	var suma int
-	var sumb int
-	for _, i := range a {
-		suma += i
+func SumAll(numberToSum...[]int) []int {
+	lenthofnumbers := len(numberToSum)
+	sums := make([]int, lenthofnumbers)
+	for i, numbers := range numberToSum {
+		sums[i] = Sum(numbers)
 	}
-	for _, j := range b {
-		sumb += j
-	}
-	sumarr = append(sumarr,suma)
-	sumarr = append(sumarr,suma)
-	return  sumarr
+	return sums
 }

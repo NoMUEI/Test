@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3bc9ba0-280e-4fac-b729-28ac4a92a276" name="Default Changelist" comment="" />
+    <list default="true" id="c3bc9ba0-280e-4fac-b729-28ac4a92a276" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/dictionary.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/dictionary_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pointererror/wallet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pointererror/wallet_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structmethodinterface/perimeter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structmethodinterface/perimeter_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arradnslice/sum.go" beforeDir="false" afterPath="$PROJECT_DIR$/arradnslice/sum.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +26,16 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PlGr9DVlicycPUZMOYXkGEM3oZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
@@ -26,6 +43,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyCode\learngotest\maps" />
+      <recent name="E:\MyCode\learngotest\pointererror" />
+      <recent name="E:\MyCode\learngotest\structmethodinterface" />
       <recent name="E:\MyCode\learngotest\arradnslice" />
     </key>
   </component>
@@ -41,70 +61,84 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestSumAll in arradnslice">
-    <configuration name="BenchmarkRepeat in repeat_benchmark_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestSearch/know_word in maps">
+    <configuration name="TestArea in structmethodinterface" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learngotest" />
-      <working_directory value="$PROJECT_DIR$/iteration" />
-      <framework value="gobench" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/iteration/repeat_benchmark_test.go" />
-      <pattern value="^BenchmarkRepeat$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ExampleRepeat in repeat_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="learngotest" />
-      <working_directory value="$PROJECT_DIR$/iteration" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/iteration/repeat_test.go" />
-      <pattern value="^ExampleRepeat$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestRepeat in repeat_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="learngotest" />
-      <working_directory value="$PROJECT_DIR$/iteration" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/iteration/repeat_test.go" />
-      <pattern value="^TestRepeat$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestSum in sum_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="learngotest" />
-      <working_directory value="$PROJECT_DIR$/arradnslice" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/arradnslice/sum_test.go" />
-      <pattern value="^TestSum$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestSumAll in arradnslice" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="learngotest" />
-      <working_directory value="$PROJECT_DIR$/arradnslice" />
+      <working_directory value="$PROJECT_DIR$/structmethodinterface" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="arradnslice" />
+      <package value="structmethodinterface" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestSumAll$" />
+      <pattern value="^TestArea$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSearch in maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/maps" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="maps" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSearch$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSearch/know_word in maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/maps" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="maps" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSearch$/^know_word$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSearch/unknow_word in maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/maps" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="maps" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSearch$/^unknow_word$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWallet in wallet_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/pointererror" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/pointererror/wallet_test.go" />
+      <pattern value="^TestWallet$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestSumAll in arradnslice" />
-        <item itemvalue="Go Test.TestSum in sum_test.go" />
-        <item itemvalue="Go Test.ExampleRepeat in repeat_test.go" />
-        <item itemvalue="Go Test.TestRepeat in repeat_test.go" />
-        <item itemvalue="Go Test.BenchmarkRepeat in repeat_benchmark_test.go" />
+        <item itemvalue="Go Test.TestSearch/know_word in maps" />
+        <item itemvalue="Go Test.TestSearch/unknow_word in maps" />
+        <item itemvalue="Go Test.TestSearch in maps" />
+        <item itemvalue="Go Test.TestWallet in wallet_test.go" />
+        <item itemvalue="Go Test.TestArea in structmethodinterface" />
       </list>
     </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

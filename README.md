@@ -1,1 +1,1 @@
-# Learn [ Gotest ](https://studygolang.gitbook.io/learn-go-with-tests/)
+# Learn [ GoTest ](https://studygolang.gitbook.io/learn-go-with-tests/)

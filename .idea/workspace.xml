@@ -2,15 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3bc9ba0-280e-4fac-b729-28ac4a92a276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps/dictionary.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps/dictionary_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pointererror/wallet.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pointererror/wallet_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structmethodinterface/perimeter.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structmethodinterface/perimeter_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependencyInjection/greet_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependencyInjection/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mocking/countdown.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mocking/countdown_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arradnslice/sum.go" beforeDir="false" afterPath="$PROJECT_DIR$/arradnslice/sum.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arradnslice/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/ArrSlice/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arradnslice/sum.go" beforeDir="false" afterPath="$PROJECT_DIR$/ArrSlice/sum.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arradnslice/sum_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ArrSlice/sum_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Hello/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/Hello/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/hello_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Hello/hello_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iteration/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Iteration/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iteration/repeat.go" beforeDir="false" afterPath="$PROJECT_DIR$/Iteration/repeat.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iteration/repeat_benchmark_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Iteration/repeat_benchmark_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iteration/repeat_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Iteration/repeat_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/dictionary.go" beforeDir="false" afterPath="$PROJECT_DIR$/Maps/dictionary.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/dictionary_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Maps/dictionary_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Maps/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number/adder.go" beforeDir="false" afterPath="$PROJECT_DIR$/Number/adder.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number/adder_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Number/adder_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/Number/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointererror/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/PointerError/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointererror/wallet.go" beforeDir="false" afterPath="$PROJECT_DIR$/PointerError/wallet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pointererror/wallet_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/PointerError/wallet_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structmethodinterface/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/StructMethodInterface/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structmethodinterface/perimeter.go" beforeDir="false" afterPath="$PROJECT_DIR$/StructMethodInterface/perimeter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structmethodinterface/perimeter_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/StructMethodInterface/perimeter_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,16 +55,20 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="go.sdk" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyCode\learngotest\Mocking" />
+      <recent name="E:\MyCode\learngotest\DependencyInjection" />
       <recent name="E:\MyCode\learngotest\maps" />
       <recent name="E:\MyCode\learngotest\pointererror" />
       <recent name="E:\MyCode\learngotest\structmethodinterface" />
-      <recent name="E:\MyCode\learngotest\arradnslice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,27 +83,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestSearch/know_word in maps">
-    <configuration name="TestArea in structmethodinterface" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestCountdown in github.com/NoMUEI/Test">
+    <configuration name="TestCountdown in countdown_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learngotest" />
-      <working_directory value="$PROJECT_DIR$/structmethodinterface" />
+      <working_directory value="$PROJECT_DIR$/Mocking" />
       <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="structmethodinterface" />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestArea$" />
+      <filePath value="$PROJECT_DIR$/Mocking/countdown_test.go" />
+      <pattern value="^TestCountdown$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSearch in maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCountdown in github.com/NoMUEI/Test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learngotest" />
-      <working_directory value="$PROJECT_DIR$/maps" />
+      <working_directory value="$PROJECT_DIR$/Mocking" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="maps" />
+      <package value="github.com/NoMUEI/Test" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestSearch$" />
+      <pattern value="^TestCountdown$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGreet in greet_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learngotest" />
+      <working_directory value="$PROJECT_DIR$/DependencyInjection" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/DependencyInjection/greet_test.go" />
+      <pattern value="^TestGreet$" />
       <method v="2" />
     </configuration>
     <configuration name="TestSearch/know_word in maps" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -106,23 +137,13 @@
       <pattern value="^TestSearch$/^unknow_word$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestWallet in wallet_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="learngotest" />
-      <working_directory value="$PROJECT_DIR$/pointererror" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/pointererror/wallet_test.go" />
-      <pattern value="^TestWallet$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestCountdown in github.com/NoMUEI/Test" />
+        <item itemvalue="Go Test.TestCountdown in countdown_test.go" />
+        <item itemvalue="Go Test.TestGreet in greet_test.go" />
         <item itemvalue="Go Test.TestSearch/know_word in maps" />
         <item itemvalue="Go Test.TestSearch/unknow_word in maps" />
-        <item itemvalue="Go Test.TestSearch in maps" />
-        <item itemvalue="Go Test.TestWallet in wallet_test.go" />
-        <item itemvalue="Go Test.TestArea in structmethodinterface" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +155,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

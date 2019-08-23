@@ -1,4 +1,4 @@
-package iteration
+package Iteration
 
 
 func Repeat(s string, times int) string {

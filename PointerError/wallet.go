@@ -1,4 +1,4 @@
-package pointererror
+package PointerError
 
 type Bitcoin int
 type Wallet struct {

@@ -1,4 +1,4 @@
-package arradnslice
+package ArrSlice
 
 
 func Sum(a []int) int {
